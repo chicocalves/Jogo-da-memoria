@@ -1,0 +1,20 @@
+:root {
+    --color-primary: green;
+    --color-secondary: crimson;
+    --color-text-light: white;
+    --color-text-dark: black;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* html {
+    font-size: 62.5%;
+} */
+
+body {
+    font-size: 16px;
+}
